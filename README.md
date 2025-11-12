@@ -83,12 +83,6 @@ ORDER BY orders DESC;
 
 ```
 
-## 📈 Visual Insights
-🗺️ ER Diagram
-<p align="center"> <img src="ER%20Diagram.jpg" alt="ER Diagram" width="80%"> </p>
-
----
-
 ## 🧠 Key Learnings
 Improved understanding of data relationships and normalization.
 
@@ -108,9 +102,13 @@ Detailed case study and insights can be found in:
 This project demonstrates how SQL can be effectively used to analyze data, solve business problems, and generate insights in the food delivery industry.
 It reflects structured thinking, analytical capability, and data storytelling — key skills for any Data Analyst or Business Intelligence professional.
 
+--
+
 ## ⚠️ Disclaimer
 All customer, restaurant, and order data are fictitious and AI-generated for educational purposes.
 This project does not represent real entities and is meant purely for learning and showcasing data analytics proficiency.
+
+--
 
 ## 👨‍💻 Author
 Mukesh Gopi Nandh
