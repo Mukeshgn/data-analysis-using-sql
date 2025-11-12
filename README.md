@@ -80,6 +80,9 @@ SELECT EXTRACT(HOUR FROM order_time) AS hour, COUNT(*) AS orders
 FROM orders
 GROUP BY hour
 ORDER BY orders DESC;
+
+```
+
 ## 📈 Visual Insights
 🗺️ ER Diagram
 <p align="center"> <img src="ER%20Diagram.jpg" alt="ER Diagram" width="80%"> </p>
@@ -87,7 +90,7 @@ ORDER BY orders DESC;
 <p align="center"> <img src="images/powerbi_dashboard.png" alt="Power BI Dashboard" width="85%"> </p>
 The Power BI dashboard visualizes customer trends, delivery patterns, and sales performance metrics.
 
-🧠 Key Learnings
+## 🧠 Key Learnings
 Improved understanding of data relationships and normalization.
 
 Gained experience in writing optimized SQL queries for business use cases.
@@ -96,7 +99,7 @@ Developed skills in translating business needs into data-driven insights.
 
 Practiced database management, joins, and aggregate functions in real-world context.
 
-📚 Documentation
+## 📚 Documentation
 Detailed case study and insights can be found in:
 📘 docs/Food-Delivery-Analytics-SQL-Case-Study.pdf
 
@@ -104,11 +107,11 @@ Detailed case study and insights can be found in:
 This project demonstrates how SQL can be effectively used to analyze data, solve business problems, and generate insights in the food delivery industry.
 It reflects structured thinking, analytical capability, and data storytelling — key skills for any Data Analyst or Business Intelligence professional.
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 All customer, restaurant, and order data are fictitious and AI-generated for educational purposes.
 This project does not represent real entities and is meant purely for learning and showcasing data analytics proficiency.
 
-👨‍💻 Author
+## 👨‍💻 Author
 Mukesh Gopi Nandh
 📧 mukeshudatha7@gmail.com
 🌐 GitHub: Mukeshgn
