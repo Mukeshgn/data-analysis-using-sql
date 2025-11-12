@@ -44,10 +44,10 @@ The database contains the following main tables:
 - `riders` – Delivery partner performance and activity  
 
 > **Entity-Relationship Diagram (ERD):**  
->  
-> <p align="center">
->   <img src="ER%20Diagram.jpg" alt="ER Diagram" width="80%">
-> </p>
+  
+ <p align="center">
+   <img src="ER%20Diagram.jpg" alt="ER Diagram" width="80%">
+ </p>
 
 ---
 
