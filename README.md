@@ -119,5 +119,20 @@ This project does not represent real entities and is meant purely for learning a
 ## 👨‍💻 Author
 Mukesh Gopi Nandh
 📧 mukeshudatha7@gmail.com
-🌐 GitHub: Mukeshgn
-🔗 LinkedIn: Mukesh Gopi Nandh
+🌐 GitHub: ---
+
+## 👨‍💻 Author
+
+**Mukesh Gopi Nandh**  
+📧 [mukeshudatha7@gmail.com](mailto:mukeshudatha7@gmail.com)  
+
+🌐 **Connect with Me:**  
+<p align="left">
+  <a href="https://github.com/Mukeshgn" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Mukeshgn-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mukesh-gopi-nandh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mukesh%20Gopi%20Nandh-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
+
