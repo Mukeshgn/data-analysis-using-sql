@@ -1,7 +1,6 @@
 # 🍽️ SQL Project: Food Delivery Data Analysis
 
 ---
-
 ## 📘 Project Overview
 
 This project simulates a real-world business scenario of a **food delivery company**, focusing on **analyzing customer behavior, delivery performance, and restaurant insights** using SQL.  
@@ -13,7 +12,6 @@ The goal is to showcase **data analytics capabilities using SQL queries**, from 
 ---
 
 ## 🧩 Project Structure
-
 - **Database Setup** – Created a PostgreSQL database `food_delivery` with schema and data tables.  
 - **Data Import** – Inserted sample order, customer, restaurant, and delivery data.  
 - **Data Cleaning** – Ensured data integrity and consistency across multiple tables.  
@@ -22,7 +20,6 @@ The goal is to showcase **data analytics capabilities using SQL queries**, from 
 ---
 
 ## 🛠️ Tech Stack
-
 | Tool / Technology | Purpose |
 |-------------------|----------|
 | **PostgreSQL** | Data storage and SQL query execution |
@@ -34,7 +31,6 @@ The goal is to showcase **data analytics capabilities using SQL queries**, from 
 ---
 
 ## 🧱 Database Schema
-
 The database contains the following main tables:
 
 - `customers` – Customer profile and demographic information  
@@ -52,7 +48,6 @@ The database contains the following main tables:
 ---
 
 ## 📊 Business Problems Solved
-
 The following questions were addressed using SQL:
 
 1. Identify the **top-performing restaurants** based on order count and ratings.  
