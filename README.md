@@ -91,9 +91,16 @@ Practiced database management, joins, and aggregate functions in real-world cont
 
 ---
 
-## 📚 Documentation
-Detailed case study and insights can be found in:
-📘 docs/Food-Delivery-Analytics-SQL-Case-Study.pdf
+## 📄 Documentation
+
+Detailed explanations, SQL logic, and business insights are included in the following files:
+
+| File | Description |
+|------|--------------|
+| [📊 Food-Delivery-Analytics-SQL-Case-Study.pptx](Food-Delivery-Analytics-SQL-Case-Study.pptx) | Presentation summarizing insights and visual analysis |
+| [🧾 Report.docx](Report.docx) | Detailed document containing structured analysis, answers, and recommendations |
+
+> These resources include a full walkthrough of the SQL problem-solving process, insights visualization, and business takeaways.
 
 ---
 
