@@ -87,7 +87,7 @@ Developed skills in translating business needs into data-driven insights.
 
 Practiced database management, joins, and aggregate functions in real-world context.
 
---
+---
 
 ## 📚 Documentation
 Detailed case study and insights can be found in:
