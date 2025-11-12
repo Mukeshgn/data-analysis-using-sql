@@ -1,5 +1,4 @@
 # 🍽️ SQL Project: Food Delivery Data Analysis
-
 ---
 
 ## 📘 Project Overview
@@ -78,6 +77,8 @@ GROUP BY hour
 ORDER BY orders DESC;
 
 ```
+
+---
 
 ## 🧠 Key Learnings
 Improved understanding of data relationships and normalization.
