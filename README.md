@@ -86,9 +86,8 @@ ORDER BY orders DESC;
 ## 📈 Visual Insights
 🗺️ ER Diagram
 <p align="center"> <img src="ER%20Diagram.jpg" alt="ER Diagram" width="80%"> </p>
-📊 Power BI Dashboard (Optional)
-<p align="center"> <img src="images/powerbi_dashboard.png" alt="Power BI Dashboard" width="85%"> </p>
-The Power BI dashboard visualizes customer trends, delivery patterns, and sales performance metrics.
+
+---
 
 ## 🧠 Key Learnings
 Improved understanding of data relationships and normalization.
@@ -98,6 +97,8 @@ Gained experience in writing optimized SQL queries for business use cases.
 Developed skills in translating business needs into data-driven insights.
 
 Practiced database management, joins, and aggregate functions in real-world context.
+
+--
 
 ## 📚 Documentation
 Detailed case study and insights can be found in:
