@@ -1,5 +1,5 @@
 ---
-🍽️ SQL Project: Food Delivery Data Analysis
+# 🍽️ SQL Project: Food Delivery Data Analysis
 ---
 
 ## 📘 Project Overview
