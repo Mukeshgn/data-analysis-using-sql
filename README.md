@@ -116,10 +116,7 @@ This project does not represent real entities and is meant purely for learning a
 
 ---
 
-## 👨‍💻 Author
-Mukesh Gopi Nandh
-📧 mukeshudatha7@gmail.com
-🌐 GitHub: ---
+## 
 
 ## 👨‍💻 Author
 
