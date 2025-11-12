@@ -80,7 +80,7 @@ SELECT EXTRACT(HOUR FROM order_time) AS hour, COUNT(*) AS orders
 FROM orders
 GROUP BY hour
 ORDER BY orders DESC;
-📈 Visual Insights
+## 📈 Visual Insights
 🗺️ ER Diagram
 <p align="center"> <img src="ER%20Diagram.jpg" alt="ER Diagram" width="80%"> </p>
 📊 Power BI Dashboard (Optional)
