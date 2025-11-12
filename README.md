@@ -27,7 +27,6 @@ The goal is to showcase **data analytics capabilities using SQL queries**, from 
 | **pgAdmin 4** | GUI for database management |
 | **Excel / Power BI** | Data visualization and reporting |
 | **Git & GitHub** | Version control and project sharing |
-| **VS Code** | SQL script and documentation editing |
 
 ---
 
